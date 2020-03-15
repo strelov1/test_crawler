@@ -1,0 +1,15 @@
+{
+    "name": "strelov1/crawler",
+    "authors": [
+        {
+            "name": "strelov1",
+            "email": "strelov1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {}
+}
